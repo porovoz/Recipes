@@ -1,5 +1,245 @@
 [
   {
-
+    "name": "Curd cheesecakes",
+    "cooking time": 30,
+    "ingredients": [
+      {
+        "name": "Curd",
+        "quantity": 350,
+        "unitsOfMeasurement": "gram"
+      },
+      {
+        "name": "Chicken egg",
+        "quantity": 2,
+        "unitsOfMeasurement": "piece"
+      },
+      {
+        "name": "Wheat flour",
+        "quantity": 6,
+        "unitsOfMeasurement": "tablespoon"
+      },
+      {
+        "name": "Sugar",
+        "quantity": 2,
+        "unitsOfMeasurement": "tablespoon"
+      }
+    ],
+    "cooking instructions": {
+      "1": "Mix all the curd with eggs, sugar and mix everything thoroughly.",
+      "2": "Pour the flour into the curd and mix thoroughly.",
+      "3": "Put the pan on medium heat and pour sunflower oil into it.",
+      "4": "Make a few small balls from the resulting curd mass and put them on a plate.",
+      "5": "Fry the cheesecakes for 1-2 minutes until golden brown. Then turn them over to the other side and also fry until golden brown.",
+      "6": "Repeat until the curd is finished."
+    }
+  },
+  {
+    "name": "Red bean salad with cottage cheese, red onion and seasonal salad",
+    "cooking time": 7,
+    "ingredients": [
+      {
+        "name": "Spices",
+        "quantity": 0,
+        "unitsOfMeasurement": "according to taste"
+      },
+      {
+        "name": "Canned red beans",
+        "quantity": 400,
+        "unitsOfMeasurement": "gram"
+      },
+      {
+        "name": "Lemon",
+        "quantity": 1,
+        "unitsOfMeasurement": "piece"
+      },
+      {
+        "name": "Garlic",
+        "quantity": 2,
+        "unitsOfMeasurement": "clove"
+      },
+      {
+        "name": "Olive oil",
+        "quantity": 50,
+        "unitsOfMeasurement": "milliliter"
+      },
+      {
+        "name": "Arugula",
+        "quantity": 100,
+        "unitsOfMeasurement": "gram"
+      },
+      {
+        "name": "Cottage cheese",
+        "quantity": 200,
+        "unitsOfMeasurement": "gram"
+      },
+      {
+        "name": "Red onion",
+        "quantity": 50,
+        "unitsOfMeasurement": "gram"
+      }
+    ],
+    "cooking instructions": {
+      "1": "Open two cans of red beans in their own juice, drain the juice and rinse the beans with cold water.",
+      "2": "Mix the finished beans with finely chopped red onion, herbs, crushed garlic, olive oil, lemon juice and cottage cheese.",
+      "3": "Add salt and pepper, let the products two minutes to rub off on each other well and serve to the table."
+    }
+  },
+  {
+  "name": "Lentil soup with mint",
+  "cooking time": 30,
+  "ingredients": [
+    {
+      "name": "Red lentil",
+      "quantity": 150,
+      "unitsOfMeasurement": "gram"
+    },
+    {
+      "name": "Onion",
+      "quantity": 1,
+      "unitsOfMeasurement": "piece"
+    },
+    {
+      "name": "Carrot",
+      "quantity": 1,
+      "unitsOfMeasurement": "piece"
+    },
+    {
+      "name": "Sunflower oil",
+      "quantity": 30,
+      "unitsOfMeasurement": "milliliter"
+    },
+    {
+      "name": "Butter",
+      "quantity": 15,
+      "unitsOfMeasurement": "gram"
+    },
+    {
+      "name": "Wheat flour",
+      "quantity": 30,
+      "unitsOfMeasurement": "gram"
+    },
+    {
+      "name": "Cream 33%",
+      "quantity": 50,
+      "unitsOfMeasurement": "milliliter"
+    },
+    {
+      "name": "Spices",
+      "quantity": 0,
+      "unitsOfMeasurement": "according to taste"
+    },
+    {
+      "name": "Lemon",
+      "quantity": 0.5,
+      "unitsOfMeasurement": "piece"
+    },
+    {
+      "name": "Mint",
+      "quantity": 0,
+      "unitsOfMeasurement": "according to taste"
+    }
+  ],
+  "cooking instructions": {
+    "1": "Pour a liter of water into a small saucepan and pour the washed lentils. Put the pan on medium heat.",
+    "2": "Grate a small carrot on a large grater, finely chop the onion. As soon as the lentils begin to boil, turn down the heat, and then add another 200 ml of water or broth. Cook for another ten minutes.",
+    "3": "Preheat a wide flat frying pan, add sunflower oil and butter there. Fry the onion and carrot.",
+    "4": "Add the fried vegetables to the pan, pour in the cream. Whip the soup with a hand blender so that it turns into a thick puree. Soup can be served to the table."
+  }
+},
+  {
+    "name": "Shrimp and sesame seeds salad",
+    "cooking time": 20,
+    "ingredients": [
+      {
+        "name": "Tomato",
+        "quantity": 3,
+        "unitsOfMeasurement": "piece"
+      },
+      {
+        "name": "Royal shrimp",
+        "quantity": 300,
+        "unitsOfMeasurement": "gram"
+      },
+      {
+        "name": "Green salad",
+        "quantity": 1,
+        "unitsOfMeasurement": "bunch"
+      },
+      {
+        "name": "Cucumber",
+        "quantity": 2,
+        "unitsOfMeasurement": "piece"
+      },
+      {
+        "name": "Spices",
+        "quantity": 0,
+        "unitsOfMeasurement": "according to taste"
+      },
+      {
+        "name": "Mayonnaise",
+        "quantity": 0,
+        "unitsOfMeasurement": "according to taste"
+      },
+      {
+        "name": "Sesame seeds",
+        "quantity": 3,
+        "unitsOfMeasurement": "tablespoon"
+      }
+    ],
+    "cooking instructions": {
+      "1": "Cut the vegetables coarsely, tear the salad into pieces.",
+      "2": "Bring strongly salted water to a boil and add the shrimp. After boiling, cook for 5 minutes.",
+      "3": "Peel off the shell from the shrimp.",
+      "4": "Mix vegetables and shrimp.",
+      "5": "Sprinkle with sesame seeds and season with mayonnaise."
+    }
+  },
+  {
+    "name": "Curd donuts in sugar powder",
+    "cooking time": 40,
+    "ingredients": [
+      {
+        "name": "Curd",
+        "quantity": 250,
+        "unitsOfMeasurement": "gram"
+      },
+      {
+        "name": "Chicken egg",
+        "quantity": 3,
+        "unitsOfMeasurement": "piece"
+      },
+      {
+        "name": "Wheat flour",
+        "quantity": 8,
+        "unitsOfMeasurement": "tablespoon"
+      },
+      {
+        "name": "Sugar and salt",
+        "quantity": 0,
+        "unitsOfMeasurement": "according to taste"
+      },
+      {
+        "name": "Olive oil",
+        "quantity": 0,
+        "unitsOfMeasurement": "according to taste"
+      },
+      {
+        "name": "Backing soda",
+        "quantity": 0.5,
+        "unitsOfMeasurement": "teaspoon"
+      },
+      {
+        "name": "Sugar powder with vanilla",
+        "quantity": 0,
+        "unitsOfMeasurement": "according to taste"
+      }
+    ],
+    "cooking instructions": {
+      "1": "Mix curd, eggs, flour, sugar, baking soda and salt in a bowl until homogeneous consistency.",
+      "2": "Heat the olive oil well in a small saucepan.",
+      "3": "Roll the dough into balls a little smaller than a walnut each using teaspoon or with your hands.",
+      "4": "Throw the donuts into boiling oil and fry over low heat, constantly turning over with a slotted spoon.",
+      "5": "Put the cooked donuts on a paper towel and leave for one or two minutes - so that it absorbs excess oil. Serve hot donuts, put on a platter and sprinkle with sugar powder mixed with vanilla."
+    }
   }
 ]
